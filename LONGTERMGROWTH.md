@@ -9,7 +9,7 @@ Software engineering requires sustained learning, and we are required to solve n
 - Daily meditation for at least 10 minutes. This includes: 
   - [Balance](https://www.balanceapp.com/) meditation app (over 400 day streak 🔥) 🧘🏽‍♀️
   - Participated in Dana's daily meditation at Makers
-  - Reflecting on mediations in a _non-judugemental_ manner
+  - Reflecting on meditations in a _non-judugemental_ manner
   - Journalling
   - Taking regular breaks
   - Planning my week ahead, allowing time for reflection and relaxation 
