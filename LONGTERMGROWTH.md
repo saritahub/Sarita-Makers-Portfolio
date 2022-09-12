@@ -7,7 +7,7 @@ Software engineering requires sustained learning, and we are required to solve n
 
 ## Mental wellbeing
 - Daily meditation for at least 10 minutes. This includes: 
-  - Balance meditation app (over 400 day streak 🔥) 🧘🏽‍♀️
+  - [Balance](https://www.balanceapp.com/) meditation app (over 400 day streak 🔥) 🧘🏽‍♀️
   - Participated in Dana's daily meditation at Makers
   - Reflecting on mediations in a _non-judugemental_ manner
   - Journalling
