@@ -15,7 +15,7 @@ Click through to any of the Week.md links for more detail.
 - I can refactor anything
 - I have a methodical approach to solving problems
 
-#### 2. I'm equipped for long term growth
+#### [2. I'm equipped for long term growth](https://github.com/saritahub/Sarita-Makers-Portfolio/blob/master/LONGTERMGROWTH.md)
 - I manage my own wellbeing
 - I can learn anything by myself
 
