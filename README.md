@@ -1,6 +1,6 @@
-## Dan Gyi - Portfolio
+## Sarita Radia - Portfolio
 
-This is my learning journey at Makers Academy.
+This is my learning journey at Makers Academy (September 2022 - December 2022).
 
 It includes examples of my work, challenges completed, and the processes I have learnt and developed while working towards the following goals.
 
@@ -14,9 +14,11 @@ Click through to any of the Week.md links for more detail.
 - I can model anything
 - I can refactor anything
 - I have a methodical approach to solving problems
+
 #### 2. I'm equipped for long term growth
 - I manage my own wellbeing
 - I can learn anything by myself
+
 #### 3. I help my teams succeed
 - I use an agile product development process
 - I write code that is easy to change
